@@ -11,16 +11,8 @@ que abarcan desde osciladores de sonido digital, controlado por el pad mouse, se
 secuenciadores probabilísticos, hasta sistemas de partículas básicos, reproductores de video, 
 geometrías y sistemas de partículas audioreactivas.
 
-Todos los videos por Ana María Gonzáles
-
-Audio: 
-intérpretes participantes laboratorio:
-Francisco Arango,
-Santiago Gil,
-Ana María Cárdenas,
-Hugo Trujillo "Hache",
-Mauricio Patiño,
-Producción: Jose Miguel Luna
+En nuestro repositorio soundcloud se puede encontrar material sonoro abierto para re mezclar y re utilizar
+bajo licencia de atribución
 
 Todos los patches pueden ser usados y modificados libremente; además puede publicar su retroalimentación
 o su patch derivado en 
