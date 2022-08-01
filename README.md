@@ -11,8 +11,8 @@ que abarcan desde osciladores de sonido digital, controlado por el pad mouse, se
 secuenciadores probabilísticos, hasta sistemas de partículas básicos, reproductores de video, 
 geometrías y sistemas de partículas audioreactivas.
 
-En nuestro repositorio soundcloud se puede encontrar material sonoro abierto para re mezclar y re utilizar
-bajo licencia de atribución
+Para escuchar nuestra producción de audio diríjase a:
+https://soundcloud.com/plataforma-bogota/sets/conectividades-lab
 
 Todos los patches pueden ser usados y modificados libremente; además puede publicar su retroalimentación
 o su patch derivado en 
